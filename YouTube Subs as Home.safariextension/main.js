@@ -6,7 +6,7 @@
 
 (function () {
   var feedSubscriptions = '/feed/subscriptions';
-  var feedHighlights = '/feed/highlights';
+  var feedHighlights = '/feed/what_to_watch';
    
   /**
    * Change the YouTube logo to link to subscriptions.
@@ -18,7 +18,7 @@
    */
   document
     .getElementById('guide-main')
-    .querySelectorAll('[data-channel-id=highlights]')[0].href = feedHighlights;
+    .querySelectorAll('[data-channel-id=what_to_watch]')[0].href = feedHighlights;
 
   /**
    * Redirect from / to /feed/subscriptions.
