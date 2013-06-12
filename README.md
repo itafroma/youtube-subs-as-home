@@ -17,7 +17,7 @@ will automatically be redirected to your subscriptions feed.
 ## Copyright and License
 
 This project is copyrighted © 2013 Mark Trapp. It is licensed via the
-[GNU Protection License (v2 only)][4]. You can find the full text of this
+[GNU General Public License (v2 only)][4]. You can find the full text of this
 license in [the repository's LICENSE file][5].
 
 ## Additional information
