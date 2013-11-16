@@ -1,6 +1,6 @@
 /**
  * @file
- * Makes clicking the YouTube logo take you to My Subscriptions instead of 
+ * Makes clicking the YouTube logo take you to My Subscriptions instead of
  * What to Watch.
  */
 

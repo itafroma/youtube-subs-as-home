@@ -7,7 +7,7 @@ called [What to Watch][2].
 
 More specifically, it changes following:
 
-* Clicking the YouTube logo will take you to 
+* Clicking the YouTube logo will take you to
 [your subscriptions feed][3].
 * Clicking What to Watch in the guide menu will take you directly to the
 [highlights feed][2] instead of the home page.
