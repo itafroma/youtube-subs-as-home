@@ -31,6 +31,6 @@ license in [the repository's LICENSE file][5].
 [3]: http://youtube.com/feed/subscriptions
 [4]: http://www.gnu.org/licenses/gpl-2.0.html
 [5]: https://github.com/itafroma/youtube-subs-as-home/blob/master/LICENSE
-[6]: https://raw.github.com/itafroma/youtube-subs-as-home/master/dist/YouTubeSubsAsHome-1.0.1.safariextz
+[6]: https://raw.github.com/itafroma/youtube-subs-as-home/master/dist/YouTubeSubsAsHome-1.0.2.safariextz
 [7]: http://marktrapp.com
 [8]: http://marktrapp.com/projects/quickies/youtube-subs-home
