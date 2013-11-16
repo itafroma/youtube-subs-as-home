@@ -1,24 +1,16 @@
 /**
  * @file
- * Makes clicking the YouTube logo take you to My Subscriptions instead of 
+ * Makes clicking the YouTube logo take you to My Subscriptions instead of
  * What to Watch.
  */
 
 (function () {
   var feedSubscriptions = '/feed/subscriptions';
-  var feedHighlights = '/feed/what_to_watch';
-   
+
   /**
    * Change the YouTube logo to link to subscriptions.
    */
   document.getElementById('logo-container').href = feedSubscriptions;
-
-  /**
-   * Link the What to Watch menu item to the correct URL instead of /
-   */
-  document
-    .getElementById('guide-main')
-    .querySelectorAll('[data-channel-id=what_to_watch]')[0].href = feedHighlights;
 
   /**
    * Redirect from / to /feed/subscriptions.
