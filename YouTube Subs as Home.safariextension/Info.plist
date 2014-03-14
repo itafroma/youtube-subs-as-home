@@ -50,6 +50,6 @@
 	<key>Update Manifest URL</key>
 	<string>https://raw.github.com/itafroma/youtube-subs-as-home/master/update-manifest.plist</string>
 	<key>Website</key>
-	<string>http://marktrapp.com/projects/youtube-subs-as-home</string>
+	<string>http://marktrapp.com/projects/youtube-subs-home</string>
 </dict>
 </plist>
